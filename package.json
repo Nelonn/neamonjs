@@ -1,11 +1,15 @@
 {
   "name": "neamonjs",
-  "version": "0.0.1",
-  "description": "Extended javascript called NeamonJS",
+  "version": "0.0.2",
+  "description": "Extended JavaScript called NeamonJS",
   "main": "./lib/index.js",
   "bin": {
     "neamon": "./bin/neamon"
   },
+  "files": [
+    "lib",
+    "bin"
+  ],
   "scripts": {
     "test": "naemon ../script.njs"
   },
