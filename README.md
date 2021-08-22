@@ -1,4 +1,4 @@
-<p align="center"><a href="https://nodei.co/npm/neamonjs/"><img src="https://nodei.co/npm/discord.js.png"></a></p>
+<p align="center"><a href="https://nodei.co/npm/neamonjs/"><img src="https://nodei.co/npm/neamonjs.png"></a></p>
 <p align="center"><img src="https://img.shields.io/npm/v/neamonjs"> <img src="https://img.shields.io/github/repo-size/Nelonn/neamonjs"> <img src="https://img.shields.io/npm/l/neamonjs"></p>
 
 # NeamonJS
