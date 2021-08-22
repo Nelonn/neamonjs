@@ -1,17 +1,13 @@
 {
   "name": "neamonjs",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "description": "Extended JavaScript called NeamonJS",
   "main": "./lib/index.js",
   "bin": {
-    "neamon": "./bin/neamon"
+    "neamon": "./bin/neamon.js"
   },
-  "files": [
-    "lib",
-    "bin"
-  ],
   "scripts": {
-    "test": "naemon ../script.njs"
+    "test": "node ./test/index.js"
   },
   "author": "Nelonn <nelonn@list.ru>",
   "license": "MIT",
@@ -24,5 +20,10 @@
     "node-eval": "^2.0.0",
     "path-is-absolute": "^2.0.0"
   },
-  "keywords": ["javascript", "language", "neamonjs", "neamon"]
+  "keywords": [
+    "javascript",
+    "language",
+    "neamonjs",
+    "neamon"
+  ]
 }
