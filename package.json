@@ -1,0 +1,24 @@
+{
+  "name": "neamonjs",
+  "version": "0.0.1-dev",
+  "description": "Extended javascript called NeamonJS",
+  "main": "./lib/index.js",
+  "bin": {
+    "neamon": "./bin/neamon"
+  },
+  "scripts": {
+    "test": "naemon ../script.njs"
+  },
+  "author": "Nelonn <nelonn@list.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nelonn/neamonjs/issues"
+  },
+  "homepage": "https://github.com/Nelonn/neamonjs#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "node-eval": "^2.0.0",
+    "path-is-absolute": "^2.0.0"
+  },
+  "keywords": ["javascript", "language", "neamonjs", "neamon"]
+}
