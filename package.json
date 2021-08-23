@@ -1,6 +1,6 @@
 {
   "name": "neamonjs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Extended JavaScript called NeamonJS",
   "main": "./lib/index.js",
   "bin": {
@@ -17,8 +17,7 @@
   "homepage": "https://github.com/Nelonn/neamonjs#readme",
   "dependencies": {
     "colors": "^1.4.0",
-    "node-eval": "^2.0.0",
-    "path-is-absolute": "^2.0.0"
+    "node-eval": "^2.0.0"
   },
   "keywords": [
     "javascript",
