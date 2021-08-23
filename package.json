@@ -1,6 +1,6 @@
 {
   "name": "neamonjs",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Extended JavaScript called NeamonJS",
   "main": "./lib/index.js",
   "bin": {
